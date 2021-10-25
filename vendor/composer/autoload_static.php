@@ -11,12 +11,20 @@ class ComposerStaticInitfbfe45c24013a2244689cbbd183054d9
         array (
             'Ncut\\LaraAuto\\' => 14,
         ),
+        'D' => 
+        array (
+            'Demo\\' => 5,
+        ),
     );
 
     public static $prefixDirsPsr4 = array (
         'Ncut\\LaraAuto\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
+        ),
+        'Demo\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src/Demo',
         ),
     );
 
