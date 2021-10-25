@@ -1,10 +1,10 @@
 <?Php
-namespace Demo;
+namespace Demo\Hello;
 
-class Someone(
-function __construct($name){
-	echo 'Hello'.$name.PHP_EOL;
+class Someone{
+	function __construct($name){
+		echo 'Hello'.$name.PHP_EOL;
+	}
 }
-)
 
 ?>
