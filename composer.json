@@ -1,0 +1,15 @@
+{
+    "name": "ncut/lara_auto",
+    "autoload": {
+        "psr-4": {
+            "Ncut\\LaraAuto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yi xuan",
+            "email": "3a832061@gm.student.ncut.edu.tw"
+        }
+    ],
+    "require": {}
+}
