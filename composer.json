@@ -12,5 +12,7 @@
             "email": "3a832061@gm.student.ncut.edu.tw"
         }
     ],
-    "require": {}
+    "require": {
+        "monolog/monolog": "^2.3"
+    }
 }
